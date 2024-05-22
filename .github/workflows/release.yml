@@ -1,5 +1,8 @@
 name: Create Release with .xpi
 
+permissions:
+  contents: write
+
 on:
   push:
     tags:
