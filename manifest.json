@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "Cappello di stagnola",
     "description": "Un cappello di stagnola per proteggere menti fragili dai pericoli della NEOLINGUA, del woke e da tutti i fantasmi che i vecchi e i nazisti incontrano nelle loro quotidiane peripezie in difesa della TRADIZIONE e di CRISTO",
-    "version": "0.1",
+    "version": "0.1.0",
     "author": "autoscatto",
     "browser_specific_settings": {
         "gecko": {
